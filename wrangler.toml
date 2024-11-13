@@ -3,7 +3,9 @@ name = "sublink-worker"
 main = "src/index.js"
 compatibility_date = "2024-07-24"
 compatibility_flags = ["nodejs_compat"]
-
+[[routes]]
+pattern = "sublink-worker.kopipahit.us.kg"
+custom_domain = true
 kv_namespaces = [
   { binding = "SUBLINK_KV", id = "1234" }
 ]
