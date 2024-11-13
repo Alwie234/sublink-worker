@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 pattern = "sublink-worker.kopipahit.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "sublink.kopipahit.us.kg"
+pattern = "sublinkk.kopipahit.us.kg"
 custom_domain = true
 
 kv_namespaces = [
