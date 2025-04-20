@@ -11,5 +11,5 @@ pattern = "sublink.mosyaf.web.id"
 custom_domain = true
 
 kv_namespaces = [
-  { binding = "SUBLINK_KV", id = "1234" }
+  { binding = "SUBLINK_KV", id = "42798afdefe9473cb7ba3b2ef6dc997c" }
 ]
